@@ -1,3 +1,5 @@
+# Start Date : 1-04-2025
+# End Date: 25-04-2025(expected)
 # HandWritten notes AI
  This project creates AI-generated handwritten text from typed input by learning a user’s unique handwriting style. Users submit samples of their handwriting (A-Z, a-z, 0-9), which are processed using OpenCV for segmentation and noise removal. A GAN (Generative Adversarial Network) or LSTM model is trained to replicate the handwriting style. The system then converts digital text into natural-looking handwritten notes, exported as images or PDFs. Built with Python (TensorFlow/OpenCV), React.js for the frontend, and Firebase for storage, this tool is ideal for personalized notes, letters, or automated document signing.
 
